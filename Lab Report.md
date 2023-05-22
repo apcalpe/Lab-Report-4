@@ -15,7 +15,7 @@ Step 9: Commit and push the resulting change to your Github account (you can pic
 
 # Step 4: 
 
-  - Open terminal through <ctrl> +  <`>
+  - Open terminal through <control> +  <`>
   - Type `ssh cs15lp23lp@ieng6.ucsd.edu` then <enter> in terminal.
   - ![Image](Screenshot%202023-05-22%20at%203.32.51%20PM.png)
   
